@@ -6,6 +6,9 @@ https://education.yandex.ru/handbook/ml/article/matrichnoe-differencirovanie
 https://math.stackexchange.com/questions/84331/does-this-derivation-on-differentiating-the-euclidean-norm-make-sense
 https://elib.spbstu.ru/dl/2/3026.pdf/download/3026.pdf
 https://thecode.media/lineynaya-algebra-vektory/
+https://portal.tpu.ru/SHARED/p/PEG/page_2/laag/Tab1/LAAG_Lecture-10(fragment).pdf
+https://habr.com/ru/articles/514806/
+https://linearalgebras.com/solution-to-mathematics-for-machine-learning.html
 
 # Математический анализ
 http://mathprofi.ru/proizvodnaya_slozhnoi_funkcii.html
@@ -25,12 +28,39 @@ https://education.yandex.ru/handbook/ml/article/matrichnoe-differencirovanie
 https://kapeli.com/cheat_sheets/LaTeX_Math_Symbols.docset/Contents/Resources/Documents/index
 https://www.markdownguide.org/basic-syntax/
 
+# Probability Theory and Mathematical Statistics
+https://mse.msu.ru/wp-content/uploads/2020/03/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6-%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.pdf
+
 # Machine Learning
 http://www.machinelearning.ru/
+https://www.sharpsightlabs.com/blog/training-validation-and-test-sets/?utm_source=ssl_email_primary&utm_medium=email&utm_campaign=newsletter
+
+# Deep Learning
+https://d2l.ai/index.html
+https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
 
 # Wolfram Solver
 https://www.wolframalpha.com/
 https://allcalc.ru/
+
+# Books
+https://mml-book.github.io/book/mml-book.pdf
+
+# Machine Learning
+https://github.com/microsoft/generative-ai-for-beginners
+https://github.com/microsoft/autogen
+https://github.com/esokolov/ml-course-hse
+https://github.com/ai-collection/ai-collection
+https://github.com/dair-ai/Mathematics-for-ML
+https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+
+# Computer Science
+https://github.com/ossu/computer-science#advanced-theory
+
+
+
+
+
 
 
 
