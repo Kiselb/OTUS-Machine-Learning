@@ -38,6 +38,7 @@ https://www.sharpsightlabs.com/blog/training-validation-and-test-sets/?utm_sourc
 # Deep Learning
 https://d2l.ai/index.html
 https://d2l.ai/chapter_appendix-mathematics-for-deep-learning/index.html
+https://course.fast.ai/
 
 # Wolfram Solver
 https://www.wolframalpha.com/
