@@ -55,6 +55,16 @@ https://github.com/ai-collection/ai-collection
 https://github.com/dair-ai/Mathematics-for-ML
 https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
 
+https://habr.com/ru/companies/ods/articles/322626/
+https://github.com/esokolov/ml-course-hse
+https://habr.com/ru/companies/ods/articles/327250/
+
+# PCA
+https://habr.com/ru/companies/otus/articles/769274/
+
+# Мультиколлинеарность
+https://habr.com/ru/companies/akbarsdigital/articles/592493/
+
 # Computer Science
 https://github.com/ossu/computer-science#advanced-theory
 
