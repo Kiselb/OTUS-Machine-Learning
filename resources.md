@@ -62,6 +62,18 @@ https://habr.com/ru/companies/ods/articles/327250/
 # PCA
 https://habr.com/ru/companies/otus/articles/769274/
 
+# Метод опорных векторов
+https://scikit-learn.ru/1-4-support-vector-machines/
+
+# Линейная регрессия
+https://datafinder.ru/products/grebnevayaridzh-regressiya-i-regressiya-lasso-i-ih-realizaciya-s-pomoshchyu-python
+
+# Логистическая регрессия
+https://forecastegy.com/posts/how-to-solve-logistic-regression-not-converging-in-scikit-learn/
+
+# Линейные модели
+https://scikit-learn.ru/1-1-linear-models/
+
 # Мультиколлинеарность
 https://habr.com/ru/companies/akbarsdigital/articles/592493/
 
