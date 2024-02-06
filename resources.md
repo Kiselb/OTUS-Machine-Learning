@@ -80,6 +80,8 @@ https://habr.com/ru/companies/akbarsdigital/articles/592493/
 # Computer Science
 https://github.com/ossu/computer-science#advanced-theory
 
+# Предварительная обработка данных
+https://scikit-learn.org/stable/modules/preprocessing.html#
 
 
 
