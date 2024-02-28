@@ -1,0 +1,31 @@
+Element			Description				US	metric	UK		Описание
+=====================================================================================================================================
+tempmax			Maximum Temperature			F	C	C		Максимальная температура
+tempmin			Minimum Temperature			F	C	C		Минимальная температура
+temp			Temperature (or mean temperature)	F	C	C		Температура (или средняя температура)
+dew			Dew Point				F	C	C		Точка росы
+feelslike		Feels like				F	C	C		Как будто
+precip			Precipitation				inches	mm	mm		Атмосферные осадки
+precipprob		Precipitation chance			%	%	%		Вероятность осадков
+precipcover		Precipitation Cover			%	%	%		Защита от осадков
+preciptype		Precipitation type			–	–	–		Тип осадков
+snow			Snow					inches	cm	cm		Снег
+snowdepth		Snow Depth				inches	cm	cm		Глубина снега
+windspeed		Wind Speed				mph	kph	kph		Скорость ветра
+windgust		Wind Gust				mph	kph	kph		Порыв ветра
+winddir			Wind Direction				degrees	degrees	degrees		Направление ветра
+visibility		Visibility				miles	km	km		Видимость
+cloudcover		Cloud Cover				%	%	%		Облачность
+humidity		Relative Humidity			%	%	%		Относительная влажность
+pressure		Sea Level Pressure			mb	mb	mb		Давление на уровне моря
+solarradiation		Solar Radiation				W/m2	W/m2	W/m2		Солнечная радиация
+solarenergy		Solar Energy				MJ/m2	MJ/m2	MJ/m2		Солнечная энергия
+uvindex			UV Index				–	–	–		УФ-индекс
+severerisk		Severe Risk				–	–	–		Серьезный риск
+sunrise			Sunrise time				–	–	–		Время восхода солнца
+sunset			Sunset time				–	–	–		Время заката
+moonphase		Moonphase				–	–	–		Фаза луны
+icon			A weather icon				–	–	–		Значок погоды
+conditions		Short text about the weather		–	–	–		Короткий текст о погоде
+description		Description of the weather for the day	–	–	–		Описание погоды на день
+stations		List of weather stations sources	–	–	–		Список источников метеостанций

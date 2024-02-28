@@ -67,9 +67,11 @@ https://scikit-learn.ru/1-4-support-vector-machines/
 
 # Линейная регрессия
 https://datafinder.ru/products/grebnevayaridzh-regressiya-i-regressiya-lasso-i-ih-realizaciya-s-pomoshchyu-python
+https://www.simplilearn.com/tutorials/scikit-learn-tutorial/sklearn-linear-regression-with-examples
 
 # Логистическая регрессия
 https://forecastegy.com/posts/how-to-solve-logistic-regression-not-converging-in-scikit-learn/
+https://habr.com/ru/companies/io/articles/265007/
 
 # Линейные модели
 https://scikit-learn.ru/1-1-linear-models/
@@ -83,9 +85,50 @@ https://github.com/ossu/computer-science#advanced-theory
 # Предварительная обработка данных
 https://scikit-learn.org/stable/modules/preprocessing.html#
 
+https://www.science.smith.edu/
+https://scikit-learn.org/stable/index.html
+https://inria.github.io/scikit-learn-mooc/toc.html
 
+# Примеры проектов ML
+https://habr.com/ru/companies/otus/articles/564806/
+https://www.kaggle.com/
 
+# Метод опорных векторов
+https://habr.com/ru/companies/otus/articles/769274/
 
+# Pandas
+https://sparkbyexamples.com/pandas/pandas-filter-by-column-value/
 
+# Визуализация данных
+https://medium.com/nuances-of-programming/5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D1%85-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B2-%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BD%D0%B0-python-%D1%81-%D0%BA%D0%BE%D0%B4%D0%BE%D0%BC-e0053808c83d
 
+https://towardsdatascience.com/create-and-customize-boxplots-with-pythons-matplotlib-to-get-lots-of-insights-from-your-data-d561c9883643
+https://practicaldatascience.co.uk/data-science/how-to-visualise-data-using-histograms-in-pandas
+https://habr.com/ru/companies/skillfactory/articles/683738/
 
+# онлайн-институт цифровых навыков
+https://www.codecamp.ru/
+
+# Библиотеки
+https://catboost.ai/
+https://seaborn.pydata.org/index.html
+https://pandas.pydata.org/docs/index.html
+https://matplotlib.org/stable/
+
+# ROC-AUC
+https://pythonru.com/baza-znanij/sklearn-roc-auc
+
+# Прочее
+https://proglib.io/p/14-besplatnyh-resursov-kotorye-prigodyatsya-kazhdomu-razrabotchiku-2023-12-21
+
+# Обучение
+https://github.com/ossu/computer-science#advanced-theory
+
+# Python
+https://devguide.python.org/
+
+# Отбор признаков
+https://habr.com/ru/articles/428213/
+
+# Другой GitHub: репозитории по Data Science, визуализации данных и глубокому обучению
+https://habr.com/ru/companies/vk/articles/437940/
