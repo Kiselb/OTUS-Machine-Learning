@@ -73,6 +73,10 @@ https://www.simplilearn.com/tutorials/scikit-learn-tutorial/sklearn-linear-regre
 https://forecastegy.com/posts/how-to-solve-logistic-regression-not-converging-in-scikit-learn/
 https://habr.com/ru/companies/io/articles/265007/
 
+# Градиентный бустинг
+https://towardsdatascience.com/all-you-need-to-know-about-gradient-boosting-algorithm-part-1-regression-2520a34a502
+
+
 # Линейные модели
 https://scikit-learn.ru/1-1-linear-models/
 
@@ -132,3 +136,12 @@ https://habr.com/ru/articles/428213/
 
 # Другой GitHub: репозитории по Data Science, визуализации данных и глубокому обучению
 https://habr.com/ru/companies/vk/articles/437940/
+
+# 2022: A Year Full of Amazing AI papers- A Review
+https://github.com/louisfb01/best_AI_papers_2022#1
+
+# Учебник по машинному обучению
+https://education.yandex.ru/handbook/ml
+
+# Хабр. Открытый курс машинного обучения
+https://habr.com/ru/companies/ods/articles/322626/
