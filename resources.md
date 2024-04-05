@@ -10,6 +10,8 @@ https://portal.tpu.ru/SHARED/p/PEG/page_2/laag/Tab1/LAAG_Lecture-10(fragment).pd
 https://habr.com/ru/articles/514806/
 https://linearalgebras.com/solution-to-mathematics-for-machine-learning.html
 
+
+
 # Математический анализ
 http://mathprofi.ru/proizvodnaya_slozhnoi_funkcii.html
 
@@ -61,6 +63,7 @@ https://habr.com/ru/companies/ods/articles/327250/
 
 # PCA
 https://habr.com/ru/companies/otus/articles/769274/
+https://habr.com/ru/articles/304214/
 
 # Метод опорных векторов
 https://scikit-learn.ru/1-4-support-vector-machines/
