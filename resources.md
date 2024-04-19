@@ -148,3 +148,6 @@ https://education.yandex.ru/handbook/ml
 
 # Хабр. Открытый курс машинного обучения
 https://habr.com/ru/companies/ods/articles/322626/
+
+# Обработка несбалансированных данных для классификации
+https://www.geeksforgeeks.org/handling-imbalanced-data-for-classification/
