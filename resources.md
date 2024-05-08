@@ -151,3 +151,9 @@ https://habr.com/ru/companies/ods/articles/322626/
 
 # Обработка несбалансированных данных для классификации
 https://www.geeksforgeeks.org/handling-imbalanced-data-for-classification/
+
+# Introduction to Modern Statistics (2nd Ed)
+https://openintro-ims2.netlify.app/
+
+# Разбор статьи про KAN – принципиально новую архитектуру нейросетей
+https://datasecrets.ru/articles/9
