@@ -157,3 +157,10 @@ https://openintro-ims2.netlify.app/
 
 # Разбор статьи про KAN – принципиально новую архитектуру нейросетей
 https://datasecrets.ru/articles/9
+
+# Machine Learning Glossary
+https://ml-cheatsheet.readthedocs.io/en/latest/
+
+
+# Те самые 30+ легендарных статей  (https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
+https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
