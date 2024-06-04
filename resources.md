@@ -161,6 +161,26 @@ https://datasecrets.ru/articles/9
 # Machine Learning Glossary
 https://ml-cheatsheet.readthedocs.io/en/latest/
 
-
 # Те самые 30+ легендарных статей  (https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE)
 https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+
+# immersive linear algebra
+https://immersivemath.com/ila/ch01_introduction/ch01.html
+
+# Поддержка векторной регрессии (SVR) с использованием линейных и нелинейных ядер в Scikit Learn
+https://www.geeksforgeeks.org/support-vector-regression-svr-using-linear-and-non-linear-kernels-in-scikit-learn/
+
+# Kernel Trick в Машинном обучении простыми словами
+https://dzen.ru/a/YPNphUmJnDlJkmrt
+
+# The Kernel Trick in Support Vector Classification
+https://towardsdatascience.com/the-kernel-trick-c98cdbcaeb3f
+
+# Интуитивное понимание пространств и ядер в машинном обучении: Часть 1
+https://habr.com/ru/articles/814343/
+
+# NLP Cheatsheet: Master NLP
+https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp
+
+# Interpretable Machine Learning
+https://christophm.github.io/interpretable-ml-book/
