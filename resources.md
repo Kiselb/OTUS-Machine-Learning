@@ -184,3 +184,34 @@ https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp
 
 # Interpretable Machine Learning
 https://christophm.github.io/interpretable-ml-book/
+
+# The BSc course Machine Learning at the Vrije Universiteit Amsterdam
+https://mlvu.github.io/
+
+# NLP Course Lena Voita
+https://lena-voita.github.io/nlp_course.html
+https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
+
+# Нейросеть ChatGPT на русском
+https://chatgptruss.com/?utm_source=telegram&utm_medium=cpc&utm_campaign=habr_community&utm_term=novaya-kampaniya-ot-05-06-2024
+
+# LSTM – сети долгой краткосрочной памяти
+https://habr.com/ru/companies/wunderfund/articles/331310/
+
+# learnopencv/PyTorch-Multi-Label-Image-Classification-Image-Tagging/Pipeline.ipynb
+https://github.com/spmallick/learnopencv/blob/master/PyTorch-Multi-Label-Image-Classification-Image-Tagging/Pipeline.ipynb
+
+# Классификация изображений по нескольким меткам в PyTorch: руководство
+https://pieriantraining.com/multilabel-image-classification-in-pytorch-a-guide/
+
+# Step by step Multi Label Image Classification with Pytorch & GPU
+https://boascents2.medium.com/step-by-step-multi-label-image-classification-with-pytorch-gpu-e34d0aa6d578
+
+# Natural Language Processing is Fun! (series of articles)
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+
+# Introduction to Machine Learning (I2ML)
+https://slds-lmu.github.io/i2ml/
+
+# A Cookbook of Self-Supervised Learning
+https://arxiv.org/pdf/2304.12210
