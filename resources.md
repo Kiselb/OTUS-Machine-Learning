@@ -185,13 +185,6 @@ https://www.kaggle.com/code/rftexas/nlp-cheatsheet-master-nlp
 # Interpretable Machine Learning
 https://christophm.github.io/interpretable-ml-book/
 
-# The BSc course Machine Learning at the Vrije Universiteit Amsterdam
-https://mlvu.github.io/
-
-# NLP Course Lena Voita
-https://lena-voita.github.io/nlp_course.html
-https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
-
 # Нейросеть ChatGPT на русском
 https://chatgptruss.com/?utm_source=telegram&utm_medium=cpc&utm_campaign=habr_community&utm_term=novaya-kampaniya-ot-05-06-2024
 
@@ -215,3 +208,44 @@ https://slds-lmu.github.io/i2ml/
 
 # A Cookbook of Self-Supervised Learning
 https://arxiv.org/pdf/2304.12210
+
+# RusVectōrēs: семантические модели для русского языка
+# сервис, в котором вы можете исследовать семантические отношения между словами при помощи дистрибутивных моделей.
+https://rusvectores.org/ru/
+
+# The platform where the machine learning community collaborates on models, datasets, and applications.
+https://huggingface.co/
+https://huggingface.co/timm/resnext50_32x4d.a1h_in1k
+
+## Курсы #############################################################################################################################################################
+
+# The BSc course Machine Learning at the Vrije Universiteit Amsterdam
+https://mlvu.github.io/
+
+# NLP Course Lena Voita
+https://lena-voita.github.io/nlp_course.html
+https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
+
+# Machine Learning for Engineers
+https://ml-course.github.io/master/intro.html
+
+# Повышаем квалификацию DL-инженеров
+https://deepschool.ru/?utm_source=notion&utm_content=evidently
+
+# MLU-EXPLAIN. Visual explanations of core machine learning concepts
+https://mlu-explain.github.io/
+
+# Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters
+https://github.com/neonwatty/machine_learning_refined
+
+######################################################################################################################################################################
+
+# Cимметрия в нейронных сетях. Часть первая
+https://deepschool-pro.notion.site/C-b3d62057b07e4a09bd2ce3dc40b31451
+
+# The Illustrated Transformer
+https://jalammar.github.io/illustrated-transformer/
+
+# ML: Attention - Модель BERT
+https://qudata.com/ml/ru/NN_Attention_BERT.html
+
