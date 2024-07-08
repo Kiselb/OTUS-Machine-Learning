@@ -238,6 +238,15 @@ https://mlu-explain.github.io/
 # Machine Learning Refined: Notes, Exercises, Presentations, and Sample Chapters
 https://github.com/neonwatty/machine_learning_refined
 
+# Machine Learning Tutorials a curated list of Machine Learning tutorials, articles and other resources
+https://ujjwalkarn.github.io/Machine-Learning-Tutorials/#awesome
+
+# Generative AI for Beginners (Version 2) - A Course
+https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file
+
+# Deep Learning course: lecture slides and lab notebooks
+https://m2dsupsdlclass.github.io/lectures-labs/
+
 ######################################################################################################################################################################
 
 # Cимметрия в нейронных сетях. Часть первая
@@ -249,3 +258,11 @@ https://jalammar.github.io/illustrated-transformer/
 # ML: Attention - Модель BERT
 https://qudata.com/ml/ru/NN_Attention_BERT.html
 
+# Kart of 210+ projects based on machine learning, deep learning, computer vision, natural language processing and all. Show your support by ✨ this repository
+https://prathimacode-hub.github.io/ML-ProjectKart/
+
+# AI by Hand ✍️ with Prof. Tom Yeh for AI Professionals
+https://dongou.tech/ai/dongou/ai-by-hand-%E2%9C%8D%EF%B8%8F-with-prof-tom-yeh-for-ai-professionals/
+
+# Understanding Deep Learning
+https://udlbook.github.io/udlbook/
