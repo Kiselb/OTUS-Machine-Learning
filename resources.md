@@ -247,6 +247,9 @@ https://github.com/microsoft/generative-ai-for-beginners?tab=readme-ov-file
 # Deep Learning course: lecture slides and lab notebooks
 https://m2dsupsdlclass.github.io/lectures-labs/
 
+# CSCE 585 Pooyan Jamshidi
+https://pooyanjamshidi.github.io/mls/lectures/
+
 ######################################################################################################################################################################
 
 # Cимметрия в нейронных сетях. Часть первая
