@@ -164,3 +164,11 @@ cython_debug/
 *.csv
 .txt
 *.txt
+.pdf
+*.pdf
+.xlsx
+*.xlsx
+project_professional/*.json
+project_professional/catboost_info/*.*
+project_professional/catboost_info/*/*.*
+project_professional/*.png

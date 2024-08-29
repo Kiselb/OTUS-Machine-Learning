@@ -250,6 +250,15 @@ https://m2dsupsdlclass.github.io/lectures-labs/
 # CSCE 585 Pooyan Jamshidi
 https://pooyanjamshidi.github.io/mls/lectures/
 
+# Interactive Tools for machine learning, deep learning, and math
+https://github.com/Machine-Learning-Tokyo/Interactive_Tools
+
+# Practical Machine Learning Faculty of Mathematics and Computer Science, University of Bucharest
+https://practical-ml-fmi.github.io/ML/
+
+# CS 886: Recent Advances on Foundation Models Winter 2024
+https://cs.uwaterloo.ca/~wenhuche/teaching/cs886/
+
 ######################################################################################################################################################################
 
 # Cимметрия в нейронных сетях. Часть первая
@@ -272,3 +281,15 @@ https://udlbook.github.io/udlbook/
 
 # ML Models Hub
 https://huggingface.co/
+
+## Neural Networks OnLine ############################################################################################################################################
+
+# ChatGPT4 на русском, доступ из России без VPN
+https://chatgptruss.com/?utm_source=telegram&utm_medium=cpc&utm_campaign=habr_community&utm_term=novaya-kampaniya-ot-05-06-2024
+
+
+# Qwen2-Math Demo
+https://huggingface.co/spaces/Qwen/Qwen2-Math-Demo
+
+
+######################################################################################################################################################################
